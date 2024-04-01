@@ -1,4 +1,5 @@
 # README: Multipara Monitor Data Interpretation Project
+![Multi-Para Patient Monitor](multi-para-patient-monitor.jpg)
 
 ## About
 
@@ -16,7 +17,7 @@ In the `/video/` directory, you can find the following video demonstrations:
 
 3. **UI Part of the Project**: [3_UI Part of the Project.mp4](/video/3_UI Part of the Project.mp4)
    - This video showcases the user interface part of the project.
-   
+
 ## Setting up the Environment
 
 ### Prerequisites
