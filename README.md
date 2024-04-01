@@ -1,4 +1,4 @@
-# README: Multipara Monitor Data Interpreator Project
+# README: Multipara Patient Monitor Data Detector  Project
 <div style="text-align:center;">
     <img src="multi-para-patient-monitor.jpg" alt="Multi-Para Patient Monitor" width="500">
 </div>
