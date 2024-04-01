@@ -1,6 +1,12 @@
 # README: Multipara Monitor Data Interpretation Project
 ![Multi-Para Patient Monitor](multi-para-patient-monitor.jpg)
 
+## Problem Statement
+The objective is to create a software solution that can accurately extract and
+interpret vital signs data such as Heart Rate (HR), Electrocardiogram (ECG) readings, and
+oxygen levels from multipara monitors. The software will analyze video feeds from the monitors
+and identify the critical data display areas, regardless of the monitor model or screen layout.
+
 ## About
 
 This repository contains the project files for the MultiPara Monitor Reading Detector developed by Vineet Kukreti.
