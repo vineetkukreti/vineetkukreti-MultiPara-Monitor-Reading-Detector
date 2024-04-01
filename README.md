@@ -1,4 +1,4 @@
-# README: Multipara Monitor Data Interpretation Project
+# README: Multipara Monitor Data Interpreator Project
 <div style="text-align:center;">
     <img src="multi-para-patient-monitor.jpg" alt="Multi-Para Patient Monitor" width="500">
 </div>
@@ -75,6 +75,7 @@ In the `/video/` directory, you can find the following video demonstrations:
 - Ensure that the virtual environment is activated before running the application.
 - For YOLOv7 specific details, refer to the `YOLOv7/README.md` file.
 - If using Anaconda, you can manage environments using the Anaconda Navigator or command-line tools.
+- currently ,this is the basic project there's lot's things i can do , also can extract the readings and made digital which can help the doctors and param-medic team
 
 ## Contact Information
 - For any inquiries or issues, please contact Vineet Kukreti at [vineetkukreti34@gmail.com](mailto:vineetkukreti34@gmail.com).
