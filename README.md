@@ -1,5 +1,6 @@
 # README: Multipara Monitor Data Interpretation Project
-![Multi-Para Patient Monitor](multi-para-patient-monitor.jpg)
+<img src="multi-para-patient-monitor.jpg" alt="Multi-Para Patient Monitor" width="400">
+
 
 ## Problem Statement
 The objective is to create a software solution that can accurately extract and
