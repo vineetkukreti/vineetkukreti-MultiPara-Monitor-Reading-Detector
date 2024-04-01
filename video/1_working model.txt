@@ -1,0 +1,6 @@
+
+In this video, we kick off with a brief intro to a small dome dam project. To start, I activate my environment by entering a command, and a basic UI appears. The main function is demonstrated by choosing a file, either a video or an image.
+
+Let's say I opt for an image. After uploading, the model predicts elements like HR or SPO2 within it. Meanwhile, the presenter shares a video that has been processed by the model. They emphasize the positive results, especially in detecting ECG and SPO2, showcasing the accuracy.
+
+Towards the end, the presenter highlights some key metrics - 0.86 for one parameter and 0.92 for another. They express satisfaction with the results and suggest that the final outcome will be available soon. That wraps up the video with a thank you.

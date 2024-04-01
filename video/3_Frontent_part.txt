@@ -1,0 +1,1 @@
+In this video, I discuss the UI part of the project. I show the end user's perspective and explain the code structure. I also demonstrate the navigation and router functionality. Additionally, I explain how the model is activated and how it processes images. The video provides a demo of the UI and showcases the results. No action is requested from the viewers.
