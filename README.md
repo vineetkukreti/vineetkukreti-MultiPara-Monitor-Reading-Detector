@@ -1,5 +1,7 @@
 # README: Multipara Monitor Data Interpretation Project
-<img src="multi-para-patient-monitor.jpg" alt="Multi-Para Patient Monitor" width="400">
+<div style="text-align:center;">
+    <img src="multi-para-patient-monitor.jpg" alt="Multi-Para Patient Monitor" width="500">
+</div>
 
 
 ## Problem Statement
