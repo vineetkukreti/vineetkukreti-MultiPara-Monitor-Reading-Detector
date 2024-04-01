@@ -1,5 +1,22 @@
 # README: Multipara Monitor Data Interpretation Project
 
+## About
+
+This repository contains the project files for the MultiPara Monitor Reading Detector developed by Vineet Kukreti.
+
+## Video Demonstration
+
+In the `/video/` directory, you can find the following video demonstrations:
+
+1. **Working of the Project**: [1_Working_of_the_Project.mp4](/video/1_Working_of_the_Project.mp4)
+   - This video demonstrates the working of the MultiPara Monitor Reading Detector.
+
+2. **Training the Model with YOLOv7**: [2_Training the Model with YOLOv7.mp4](/video/2_Training the Model with YOLOv7.mp4)
+   - This video shows the process of training the model using YOLOv7.
+
+3. **UI Part of the Project**: [3_UI Part of the Project.mp4](/video/3_UI Part of the Project.mp4)
+   - This video showcases the user interface part of the project.
+   
 ## Setting up the Environment
 
 ### Prerequisites
