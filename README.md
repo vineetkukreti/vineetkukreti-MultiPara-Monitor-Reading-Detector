@@ -76,6 +76,7 @@ In the `/video/` directory, you can find the following video demonstrations:
 - For YOLOv7 specific details, refer to the `YOLOv7/README.md` file.
 - If using Anaconda, you can manage environments using the Anaconda Navigator or command-line tools.
 - currently ,this is the basic project there's lot's things i can do , also can extract the readings and made digital which can help the doctors and param-medic team
+- **Please note that the training model is not included in this repository due to its large size. If you require the training model, please feel free to contact Vineet Kukreti at vineetkukreti34@gmail.com. He will be happy to provide it upon request.**
 
 ## Contact Information
 - For any inquiries or issues, please contact Vineet Kukreti at [vineetkukreti34@gmail.com](mailto:vineetkukreti34@gmail.com).
